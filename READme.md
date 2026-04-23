@@ -23,7 +23,7 @@
 
 **DEPLOY WOLFBOT**
 <br>
-<a href="https://inspiring-genie-ebae09.netlify.app/" target="_blank">
+<a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
 </a>
 
@@ -31,7 +31,7 @@
 
 **SESSION PAIR**
 <br>
-<a href="https://7-w.vercel.app/wolf.html" target="_blank">
+<a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
   <img src="https://img.shields.io/badge/pair%20code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR"/>
 </a>
 
