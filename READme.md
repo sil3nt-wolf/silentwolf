@@ -76,6 +76,9 @@
 <p align="center">
   <img src="https://i.ibb.co/84KJgJ8Z/upload-1775954974332-f1651ae8-jpg.jpg" alt="WOLFBOT AI Music Generator in Progress" width="320"/>
 </p>
+<p align="center">
+  <img src="https://i.ibb.co/W1GDxQD/Screenshot-2026-04-29-092320.png" alt="WOLFBOT AI Music Generator in Progress" width="320"/>
+</p>
 
 ---
 
